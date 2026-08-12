@@ -1,0 +1,668 @@
+[
+  {
+    "model": "Ferrari Berlinetta Boxer",
+    "summary": "The Ferrari Berlinetta Boxer (BB) is a series of sports cars produced by Ferrari in Italy between 1973 and 1984. The BB was designed by Leonardo Fioravanti at Pininfarina. The first BB model, the 365 GT4 BB, replaced the front engined Daytona and was the first in a series of road-going Ferraris equipped with a mid-mounted flat-twelve engine. The 365 GT4 BB was succeeded in 1976 by the BB 512, equipped with a larger displacement engine, then by the fuel-injected BB 512i in 1981. The series was discontinued in 1984 when the BB 512i was replaced by the Testarossa, which used a revised version of the flat-twelve engine.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg/3840px-1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1984
+  },
+  {
+    "model": "Ferrari Superamerica 45",
+    "summary": "The Ferrari 599 GTB Fiorano is a grand tourer produced by the Italian automobile manufacturer Ferrari. It served as the brand's front-engined, two-seat model, replacing the 575M Maranello in 2006 as a 2007 model, and was later replaced for the 2013 model year by the F12berlinetta.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2013
+  },
+  {
+    "model": "Ferrari F430",
+    "summary": "The Ferrari F430 is a sports car produced by the Italian automobile manufacturer Ferrari from 2004 until 2009 as a successor to the Ferrari 360. The car is an update to the 360 with exterior and performance changes. It was unveiled at the 2004 Paris Motor Show. The F430 was succeeded by the 458 which was unveiled on 28 July 2009. An estimated 16,750 F430s were produced between 2005 and 2009.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2009
+  },
+  {
+    "model": "Ferrari F50",
+    "summary": "The Ferrari F50 is a limited production mid-engine sports car manufactured by Italian automobile manufacturer Ferrari from 1995 until 1997. Introduced in 1995, the car is a two-door, two seat targa top. The F50 is powered by a 4.7 L naturally aspirated Tipo F130B 60-valve V12 engine that was developed from the 3.5 L V12 used in the 1990 Ferrari 641 Formula One car. The car's design is an evolution of the 1989 Ferrari Mythos concept car, while Pininfarina incorporated design cues from contemporary F1 racecar designs, particularly at the front.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/1999_Ferrari_F50.jpg/3840px-1999_Ferrari_F50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1997
+  },
+  {
+    "model": "Ferrari Amalfi",
+    "summary": "The Ferrari Amalfi is a grand touring car produced by Italian manufacturer Ferrari. It was unveiled on 1 July 2025, as the successor to the Ferrari Roma, with an estimated starting price of $283,000. It has a front mid-engine, rear-wheel-drive layout. The car is named after the village of Amalfi on the Gulf of Salerno.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ferrari_Amalfi_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2025
+  },
+  {
+    "model": "Ferrari FXX-K",
+    "summary": "The LaFerrari is a limited production mid-engine, mild hybrid sports car built by Italian automotive manufacturer Ferrari. Its name means \"The Ferrari\" in Italian, as it is intended to be the definitive Ferrari.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/3840px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari California T",
+    "summary": "The Ferrari California is a grand touring, high performance sports car created by the Italian automobile manufacturer Ferrari. It is a two-door 2+2 hard top convertible. When originally unveiled in 2008, the California was powered by a front-mid mounted, rear wheel drive, naturally aspirated 4.3-litre V8. In 2012, a lighter, slightly more powerful variant, the California 30, was introduced. In 2014, Ferrari announced the second generation of the model, named California T powered by a new twin-turbo 3.9-litre V8.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg/3840px-2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg",
+    "year": 2014
+  },
+  {
+    "model": "Ferrari 290 S",
+    "summary": "The Ferrari 290 S was a sports racing car produced by Ferrari in 1957. It was a development of an earlier 290 MM race car that won the 1956 Mille Miglia. The 290 S was the first sports car manufactured by Ferrari to be powered by a DOHC V12 engine. Its career was very short but it served as an important milestone in the Jano V12-powered lineage.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1985-09-27_80_Anni%2C_Modena_Ferrari_315_0656_Obrist.jpg",
+    "year": 1957
+  },
+  {
+    "model": "Ferrari Daytona",
+    "summary": "The Ferrari Daytona is a two-seat grand tourer produced by Ferrari from 1968 to 1973. It was introduced at the Paris Auto Salon in 1968 to replace the 275 GTB/4, and featured the 275's Colombo V12 with a larger cylinder bore for 4,390 cc. It was offered in berlinetta and spyder forms. The car came in two variants: the 365 GTB/4 coupe, and the 365 GTS/4 convertible.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1973_Ferrari_Daytona_365_GTB4_Blue_LC22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1973
+  },
+  {
+    "model": "Ferrari 348",
+    "summary": "The Ferrari 348 is a mid-engined, V8-powered, two-seat sports car produced by Italian automaker Ferrari, replacing the 328 in 1989 and remaining in production until 1996, when it was replaced by the F355. It was the final V8 model developed under the direction of Enzo Ferrari before his death, commissioned to production posthumously.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1993_Ferrari_348_Spider%2C_roof_up_front_left.jpg/3840px-1993_Ferrari_348_Spider%2C_roof_up_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1996
+  },
+  {
+    "model": "Ferrari 296",
+    "summary": "The Ferrari 296 is a sports car built since 2022 by the Italian company Ferrari. The 296 is a two-seater, offered as a GTB coupe and a GTS folding hard-top convertible. It is a plug-in hybrid with a rear mid-engine, rear-wheel-drive layout and its powertrain combines a twin-turbocharged 120-degree bank angle V6, with an electric motor fitted in between engine and gearbox. The 296 can be driven in electric-only mode for short distances, to comply with use in urban zero-emission zones.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2022_Ferrari_296_%28cropped%29.jpg/3840px-2022_Ferrari_296_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2022
+  },
+  {
+    "model": "Ferrari 365 GT4 2+2, 400 and 412",
+    "summary": "The Ferrari 365 GT4 2+2, Ferrari 400 and Ferrari 412 are a series of four-seater grand touring cars made by Italian manufacturer Ferrari between 1972 and 1989. The three cars are closely related, with the name changes reflecting mainly engine changes and styling revisions. It has a front-mounted V12 engine which drives the rear wheels.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ferrari_365_GT4_2%2B2_%282565525915%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1989
+  },
+  {
+    "model": "Ferrari Ascari",
+    "summary": "The Ferrari Ascari is a Ferrari concept car that won the \"Ferrari: New Concepts for the Myth\" car design competition in 2005. The car was designed by Manuele Amprimo, Werner Gruber, and Yu Jae-Cheul from Istituto Europeo di Design, Turin, Italy. The judges of the competition included Luca Cordero di Montezemolo, Piero Ferrari, Jean Todt, Amedeo Felisa, Massimo Fumarola, Pininfarina, and more than 22,000 users of FerrariWorld's online website. A scale model was made for the competition. As a result of this competition, the Ferrari Ascari, has a larger chance of evolving from concept car to reality.",
+    "image_url": null,
+    "year": 2005
+  },
+  {
+    "model": "Ferrari 159 S",
+    "summary": "The Ferrari 159 S (1947) was the second Ferrari vehicle, succeeding the Ferrari 125 S that had won six of 14 races earlier in 1947. Only two 159 S were built, one of these rebuilt as a Ferrari 166 Spyder Corsa, and as of 2012, the oldest remaining Ferrari.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1947-09-28_Ferrari_125-159_sn01C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2012
+  },
+  {
+    "model": "Ferrari F355",
+    "summary": "The Ferrari F355 is a sports car manufactured by Italian car manufacturer Ferrari produced from May 1994 until 1999. The car is a heavily revised Ferrari 348 with notable exterior and performance changes. The F355 was succeeded by the all-new Ferrari 360 in 1999.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ferrari_F355_Berlinetta_1X7A7333.jpg/3840px-Ferrari_F355_Berlinetta_1X7A7333.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1999
+  },
+  {
+    "model": "Ferrari 250 GT Berlinetta Lusso",
+    "summary": "The Ferrari 250 GT Berlinetta Lusso is a GT car which was manufactured by Italian automaker Ferrari from 1962 to 1964. Sometimes known as the GTL, GT/L or just Lusso, it is larger and more luxurious than the 250 GT Berlinetta. The 250 GT Lusso, which was not intended to compete in sports car racing, is considered to be one of the most elegant Ferraris.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ferrari_250_Lusso_in_Grey%2C_front_right.jpg/3840px-Ferrari_250_Lusso_in_Grey%2C_front_right.jpg",
+    "year": 1964
+  },
+  {
+    "model": "Ferrari F40",
+    "summary": "The Ferrari F40 is a mid-engine, rear-wheel drive sports car engineered by Nicola Materazzi with styling by Pininfarina. It was built from 1987 until 1993, with the LM, Competizione and GTE race car versions continuing production from 1994 to 1996 respectively. As the successor to the 288 GTO, it was designed to celebrate Ferrari's 40th anniversary and was the last Ferrari automobile personally approved by Enzo Ferrari. At the time it was Ferrari's fastest, most powerful, and most expensive car for sale.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/F40_Ferrari_20090509.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1996
+  },
+  {
+    "model": "Ferrari Millechili",
+    "summary": "The Ferrari Millechili is the name of a concept car shown at a technical symposium at Ferrari's headquarters in Maranello in 2007. It is also the name of a project by Ferrari to develop and manufacture a lightweight sports car. The development of the Millechili is being done in collaboration with University of Modena and Reggio Emilia, faculty of Mechanical Engineering. MilleChili Lab is a cross-project in which students are working on light-weight car design.",
+    "image_url": null,
+    "year": 2007
+  },
+  {
+    "model": "Ferrari 166 S",
+    "summary": "The Ferrari 166 S is a sports car built by Ferrari between 1948 and 1953, as a evolution of its Colombo V12-powered 125 S racer. It was adapted into a sports car for the street in the form of the 166 Inter.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ferrari_166_MM_Barchetta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1953
+  },
+  {
+    "model": "Ferrari 335 S",
+    "summary": "The Ferrari 335 S was a sports racing car produced by Italian automobile manufacturer Ferrari between 1957 and 1958. The car was a direct response to the Maserati 450S which with its 4.5-litre engine was threatening to overpower the 3.8-litre 315 S and 3.5-litre 290 MM. Four cars were produced in total.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/1957_Ferrari_335_Sport_Spider_Scaglietti_no_0674%2C_Greenwich_2018.jpg/3840px-1957_Ferrari_335_Sport_Spider_Scaglietti_no_0674%2C_Greenwich_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1958
+  },
+  {
+    "model": "Ferrari 250 GT California Spyder",
+    "summary": "The Ferrari 250 GT California Spyder is a sports car developed by the Italian automotive company Ferrari. It is presented by the brand as Ferrari 250 Gran Turismo Spyder California or simply Ferrari 250 California. It was designed by Sergio Scaglietti, who adapted the styling of the 250 GT Pinin Farina, and was produced by Carrozzeria Scaglietti. The model gained considerable recognition following its appearance in the 1986 film Ferris Bueller's Day Off.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ferrari_250_California_Spyder_SWB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1986
+  },
+  {
+    "model": "Ferrari 340 MM",
+    "summary": "The Ferrari 340 MM is a sports racing car, being an evolution of the Ferrari 340 Mexico with a shorter, 2,500 mm (98.4 in), wheelbase. The 340 MM used the same 4.1 L Lampredi V12 as the 340 Mexico with similar three Weber 40DCF carburettors that helped the 340 achieve 280 PS (206 kW) at 6600 rpm and a maximum speed of 282 km/h. 10 examples were made in 1953, 4 Pinin Farina Berlinettas, 2 Touring Spyders and 4 Vignale Spyders. A total of four were converted to 375 MM spec. Giannino Marzotto won the 1953 Mille Miglia in a Vignale Spyder, setting a new average speed record for the race; with other 340 MM finishing fourth. Two more 340 MMs were entered that year in Touring barchetta guise but did not finish.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1953-03-29_Nimes_Ferrari_340_0236MM_Boncompagni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1953
+  },
+  {
+    "model": "Ferrari 500 Superfast",
+    "summary": "The Ferrari 500 Superfast is a flagship grand tourer manufactured by Ferrari between 1964 and 1966 with 37 built. It featured a 5-litre V12 producing 394 hp.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1966_Ferrari_500_7975SF_in_Roma.jpg",
+    "year": 1966
+  },
+  {
+    "model": "Ferrari F12",
+    "summary": "The Ferrari F12berlinetta is a front mid-engine, rear-wheel-drive grand tourer produced by Italian automobile manufacturer Ferrari. The F12berlinetta debuted at the 2012 Geneva Motor Show, and replaced the 599 grand tourer. The naturally aspirated 6.3 litre Ferrari V12 engine used in the F12berlinetta won the 2013 International Engine of the Year Award in the Best Performance category and Best Engine above 4.0 litres. The F12berlinetta was named \"The Supercar of the Year 2012\" by car magazine Top Gear. The F12berlinetta was replaced by the 812 Superfast in early 2017.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ferrari_F12berlinetta_IMG_2941.jpg/3840px-Ferrari_F12berlinetta_IMG_2941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2017
+  },
+  {
+    "model": "Ferrari 328",
+    "summary": "The Ferrari 328 GTB and GTS are mid-engine V8, two-seat sports cars created by Italian automobile manufacturer Ferrari. It was the successor to the Ferrari 308 GTB and GTS. While mechanically still based on the 308, modifications were made to the body, chassis, and engine, most notably an increase in engine displacement to 3.2 L for increased power and torque output. The 328 is still considered by some enthusiasts to be one of the most reliable and functional Ferraris; unlike other models, much of its maintenance can be performed without lowering the engine from the vehicle. In 1989, the 328 was succeeded by the 348.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1989
+  },
+  {
+    "model": "Ferrari 212 Inter",
+    "summary": "The Ferrari 212 Inter replaced Ferrari's successful 166 and 195 Inter grand tourers in 1951. Unveiled at the Brussels Motor Show that year, the 212 was an evolution of the 166 — a sports car for the road that could also win international races. In 1951, two 212 Inters, both Vignale coupés, driven by Taruffi/Chinetti and Ascari/Villoresi, scored 1–2 victory at Carrera Panamericana in Mexico.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Pebble_Tour_Ferrari_Ferrari_212_0092.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1951
+  },
+  {
+    "model": "Ferrari 512",
+    "summary": "Ferrari 512 S was a sports prototype car produced by Italian manufacturer Ferrari from late 1969 to 1970. As its name suggests, the car had a 5.0L V12 engine, and was homologated as a Group 4 Sportscar of which a total number of 25 units had to be made. Porsche had already done the same in April 1969 with the Porsche 917, while other Sportscars in the 5-litre class, Ferrari 250 LM, Ford GT40 Mk.I, Lola T70, had been built mainly in 1964, 1965 or 1967.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/1970_Ferrari_512_S.jpg/3840px-1970_Ferrari_512_S.jpg",
+    "year": 1970
+  },
+  {
+    "model": "Ferrari America",
+    "summary": "Ferrari America is a series of flagship grand touring Ferrari models primarily built for the North American market in the 1950s and 1960s. The America models were equipped with large V12 engines and often had custom bodywork done by famous coachbuilders in Italy. All America models used a live axle in the rear, were front-engined, and had worm and sector steering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/1964_Ferrari_500_Superfast_in_Dark_Red%2C_front_left.jpg/3840px-1964_Ferrari_500_Superfast_in_Dark_Red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": null
+  },
+  {
+    "model": "Ferrari 290 MM",
+    "summary": "The Ferrari 290 MM is a sports racing car produced by the Italian automobile manufacturer Ferrari in 1956. It was developed to compete in the 1956 edition of Mille Miglia as a successor to the 860 Monza, hence the acronym \"MM\", and four cars were built.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1956_Ferrari_250_TR_290_MM-250_TR_Spyder_Chassis_0606.jpg/3840px-1956_Ferrari_250_TR_290_MM-250_TR_Spyder_Chassis_0606.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1956
+  },
+  {
+    "model": "Ferrari P540 Superfast Aperta",
+    "summary": "The Ferrari 599 GTB Fiorano is a grand tourer produced by the Italian automobile manufacturer Ferrari. It served as the brand's front-engined, two-seat model, replacing the 575M Maranello in 2006 as a 2007 model, and was later replaced for the 2013 model year by the F12berlinetta.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg",
+    "year": 2013
+  },
+  {
+    "model": "Ferrari 333 SP",
+    "summary": "The Ferrari 333 SP is a sports prototype racing car designed by Ferrari that was built by Italian racing car manufacturer Dallara and later Michelotto to compete in the World Sports Car championship for Ferrari. Unveiled at the end of 1993, at the behest of amateur racer Giampiero Moretti, the 333 SP marked Ferrari's official return to sports car racing since 1973. The car was built to compete in the IMSA's new WSC class, which replaced the previous GTP cars.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ferrari_333_SP_at_Goodwood_2014_002.jpg/3840px-Ferrari_333_SP_at_Goodwood_2014_002.jpg",
+    "year": 1993
+  },
+  {
+    "model": "Ferrari 458 Italia",
+    "summary": "The Ferrari 458 Italia is an Italian mid-engine sports car produced by Ferrari. The 458 is the successor of the F430, and was first officially unveiled at the 2009 Frankfurt Motor Show. It was succeeded by the 488 GTB in 2015.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2015
+  },
+  {
+    "model": "Ferrari 315 S",
+    "summary": "The Ferrari 315 S is a sports racing car produced by Ferrari in 1957. The model served as the replacement of the Ferrari 290 MM, which had won the 1956 Mille Miglia and was an effort to dethrone the ever powerful Maserati 450S.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1985-09-27_80_Anni%2C_Modena_Ferrari_315_0656_Obrist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1957
+  },
+  {
+    "model": "Ferrari 250 LM",
+    "summary": "The Ferrari 250 LM is a sports car produced by Ferrari between 1963 and 1966 as a berlinetta version of the 250 P prototype race car.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ferrari_Coupe_250_LM_1964_Mulhouse_FRA_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1966
+  },
+  {
+    "model": "Ferrari 195 Inter",
+    "summary": "The Ferrari 195 Inter is a sports car produced by Ferrari between 1950 and 1951, as a grand tourer (GT) version of the Ferrari 195 S racer.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/1951_Ferrari_195_Inter_Ghia%2C_ex-Villoresi%2C_front_left.jpg/3840px-1951_Ferrari_195_Inter_Ghia%2C_ex-Villoresi%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1951
+  },
+  {
+    "model": "Ferrari FF",
+    "summary": "The Ferrari FF is a grand touring car that was produced by the Italian carmaker Ferrari from 2011 to 2016. The successor to the 612 Scaglietti, the FF—whose name is an acronym for \"Ferrari Four\"—is a three-door shooting brake. Development of the FF began in 2007, and it debuted at the Geneva International Motor Show in March 2011; production started in the same month in Maranello, Italy. Designed under the direction of Lowie Vermeersch and Flavio Manzoni, the FF shares parts, mainly the engine, with the F12berlinetta—a coupé that was introduced one year after the FF.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg/3840px-2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2016
+  },
+  {
+    "model": "Ferrari GG50",
+    "summary": "The Ferrari GG50 is a concept car created by Ferrari to mark the fifty years during which Giorgetto Giugiaro had been designing cars. It was introduced at the 2005 Tokyo Motor Show.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ferrari_GG50_-_Museo_Ferrari_%2817515678863%29.jpg/3840px-Ferrari_GG50_-_Museo_Ferrari_%2817515678863%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2005
+  },
+  {
+    "model": "Ferrari 212 Export",
+    "summary": "The Ferrari 212 Export was a sports racing car produced by Ferrari in 1951–1952. The 212 Exports won Tour de France automobile, Giro di Sicilia, Coppa della Toscana, 10 Hours of Messina and other motor races throughout its career. It was meant to be a sports car available for oversea markets.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/R%C3%A9tromobile_2015_-_Ferrari_212_Touring_Barchetta_-_1952_-_003.jpg/3840px-R%C3%A9tromobile_2015_-_Ferrari_212_Touring_Barchetta_-_1952_-_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1952
+  },
+  {
+    "model": "Ferrari 275 S",
+    "summary": "The Ferrari 275 S was a sports racing car produced by Ferrari in 1950. It was the first Ferrari powered by a new Aurelio Lampredi-designed V12 engine, created as a large displacement alternative to the initial 1,5 L Colombo V12, used in supercharged form in Ferrari 125 F1. Formula One regulations allowed for up to 4.5 L in naturally aspirated form.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/1950-04-24_Mille_Miglia_Ferrari_275_0030MT_Ascari_Nicolini.jpg",
+    "year": 1950
+  },
+  {
+    "model": "Ferrari SF90 XX Stradale",
+    "summary": "The Ferrari SF90 Stradale is a mid-engine PHEV sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with 90 standing for the 90th anniversary of the Scuderia Ferrari racing team and also \"Stradale\", an Italian word for \"made for the road\".",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": null
+  },
+  {
+    "model": "Ferrari FXX Evoluzione",
+    "summary": "The Ferrari Enzo, officially marketed as Enzo Ferrari, is a mid-engine sports car manufactured by Italian automobile manufacturer Ferrari and named after the company's founder, Enzo Ferrari. It was developed in 2002 using Formula One technology, such as a carbon-fibre body, Formula One-style automated-shift manual transmission, and carbon fibre-reinforced silicon carbide (C/SiC) ceramic composite disc brakes, as well as technologies not allowed in Formula One, such as active aerodynamics. The Enzo's F140 B V12 engine was also the first of a new generation for Ferrari. The Enzo generates substantial amounts of downforce through its front underbody flaps, small adjustable rear spoiler and rear diffuser, which work in conjunction to produce 343 kilograms (756 lb) of downforce at 200 km/h (124 mph) and 775 kilograms (1,709 lb) of downforce at 300 km/h (186 mph), before decreasing to 585 kilograms (1,290 lb) at top speed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/3840px-Orange_Enzo_Ferrari_%287191948164%29.jpg",
+    "year": 2002
+  },
+  {
+    "model": "Ferrari 308 GTB/GTS",
+    "summary": "The Ferrari 308 GTB berlinetta and targa-topped 308 GTS are V8 mid-engined, two-seater sports cars manufactured by the Italian company Ferrari from 1975 until 1985. The 308 replaced the Dino 246 GT and GTS in 1975 and was updated as the 328 GTB/GTS in 1985. The similar 208 GTB and GTS were equipped with a smaller, initially naturally aspirated and later turbocharged, two-litre engine, and were sold mainly in Italy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ferrari_308_GTB_IMG_3510.jpg/3840px-Ferrari_308_GTB_IMG_3510.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1985
+  },
+  {
+    "model": "Ferrari SF90 Stradale",
+    "summary": "The Ferrari SF90 Stradale is a mid-engine PHEV sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with 90 standing for the 90th anniversary of the Scuderia Ferrari racing team and also \"Stradale\", an Italian word for \"made for the road\".",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari 288 GTO",
+    "summary": "The Ferrari GTO is an exotic homologation version of the Ferrari 308 GTB produced from 1984 until 1987 in Ferrari's Maranello factory. The name \"GTO\" is an acronym, with GT meaning Gran Turismo, and O meaning Omologata.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ferrari_288_GTO_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1987
+  },
+  {
+    "model": "Ferrari Roma",
+    "summary": "The Ferrari Roma is a grand touring car by Italian manufacturer Ferrari. It has a front mid-engine, rear-wheel-drive layout with a twin turbocharged V8 engine and a 2+2 seating arrangement. Based on the Ferrari Portofino, the car succeeds the Portofino and sits below the Ferrari F8 in Ferrari's range of sports cars.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg/3840px-2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": null
+  },
+  {
+    "model": "Ferrari 458",
+    "summary": "The Ferrari 458 Italia is an Italian mid-engine sports car produced by Ferrari. The 458 is the successor of the F430, and was first officially unveiled at the 2009 Frankfurt Motor Show. It was succeeded by the 488 GTB in 2015.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2015
+  },
+  {
+    "model": "Ferrari 375 MM",
+    "summary": "The Ferrari 375 MM, was a sports racing car produced by Ferrari from 1953 to 1955. It was named \"375\" for the unitary displacement of one cylinder in the 4.5 L V12 engine, and the \"MM\" stood for the Mille Miglia race. In total 26 units were made, including four converted from the 340 MM.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1953_Ferrari_375_MM_Spider_front.jpg/3840px-1953_Ferrari_375_MM_Spider_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1955
+  },
+  {
+    "model": "Ferrari F50 GT",
+    "summary": "The Ferrari F50 is a limited production mid-engine sports car manufactured by Italian automobile manufacturer Ferrari from 1995 until 1997. Introduced in 1995, the car is a two-door, two seat targa top. The F50 is powered by a 4.7 L naturally aspirated Tipo F130B 60-valve V12 engine that was developed from the 3.5 L V12 used in the 1990 Ferrari 641 Formula One car. The car's design is an evolution of the 1989 Ferrari Mythos concept car, while Pininfarina incorporated design cues from contemporary F1 racecar designs, particularly at the front.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/1999_Ferrari_F50.jpg/3840px-1999_Ferrari_F50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1997
+  },
+  {
+    "model": "Ferrari F80",
+    "summary": "The Ferrari F80 is a limited production mid-engine, hybrid sports car built by the Italian automobile manufacturer Ferrari. Designed and named to commemorate the 80th anniversary of the company, it serves as Ferrari's flagship vehicle, and a successor to LaFerrari.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/FerrariF80_%28resized%29_%28cropped%29.jpg/1920px-FerrariF80_%28resized%29_%28cropped%29.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari 125 S",
+    "summary": "The Ferrari 125 S is a 1.5 litre sports car built in 1947 by automaker Ferrari in Modena, Italy. It was the company's first vehicle, of which only two were made.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ferrari_125_S_-_Museo_Enzo_Ferrari.jpg/3840px-Ferrari_125_S_-_Museo_Enzo_Ferrari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": null
+  },
+  {
+    "model": "Ferrari 410 S",
+    "summary": "The Ferrari 410 S was a sports racing car produced by Ferrari in 1955–1956. After the racing successes of 375 Plus, mainly in 1954 Carrera Panamericana, Ferrari decided to prepare another model for this marathon. The 410 S was intended as a long-distance race car originally designed for the 1955 Carrera Panamericana and was the final model of the Lampredi V12 sports car lineage. The next generation of sports racing cars that replaced the 410 S were powered by the new Jano V12 engines.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ferrari_410-Spider-Scaglietti.JPG",
+    "year": 1956
+  },
+  {
+    "model": "Ferrari 166 Inter",
+    "summary": "The Ferrari 166 Inter was Ferrari's first true grand tourer. An evolution of the 125 S and 166 S racing cars, it was a sports car for the street with coachbuilt bodies. The Inter name commemorated the victories claimed in 166 S models by Scuderia Inter. 38 units of the 166 Inter were built from 1948 through 1950. Note that both the 166 S and 166 F2 were also called \"166 Inter\" in the days that they were actively raced by the Scuderia of the same name.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ferrari_166-Inter-Berlinetta_Front-view_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1950
+  },
+  {
+    "model": "Ferrari Monza SP",
+    "summary": "The Ferrari Monza SP1 and SP2 are limited production sports cars produced by Italian automobile manufacturer Ferrari, introduced in 2018 for the 2019 model year. The cars mark the start of a new lineage of models called the \"Icona\" series, a program aimed at creating special cars inspired by classic Ferrari models, all to be produced in limited series. The first cars of the new lineage are the Monza SP1 and SP2, whose designs are inspired by the 750 Monza, 250 Testarossa and 166 MM. The SP1 and SP2 nomenclature refers to the number of seats for each model. 499 units were built at a price of €1.58 million before options.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_005_%28cropped%29.jpg/3840px-Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_005_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2019
+  },
+  {
+    "model": "Ferrari P",
+    "summary": "The Ferrari P was a series of rear mid-engined two seat sports prototype racing car models produced by Ferrari during the 1960s and early 1970s to be raced mainly by the factory Scuderia Ferrari racing team. When a double digit number of identical cars was planned for homologation and sale to customers, the codes LM or S (Sportscar) were used instead.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Une_Ferrari_Portofino_%284%29_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": null
+  },
+  {
+    "model": "Ferrari 330",
+    "summary": "The Ferrari 330 was a series of V12 powered automobiles produced by Ferrari in 2+2 GT Coupé, two-seat Berlinetta, spyder, and race car versions between 1963 and 1968. The name \"330\" refers to the approximate displacement of each single cylinder in cubic centimeters.",
+    "image_url": null,
+    "year": 1968
+  },
+  {
+    "model": "Ferrari Dino 206 S",
+    "summary": "The (Ferrari) Dino 206 S is a rear mid engine sports prototype produced by Ferrari in 1966–1967 under the Dino marque with the 2 litre V6 engine named after Enzo Ferrari's late son. Ferrari intended to build and sell at least fifty examples for homologation by the CSI in the Group 4 Sportscar category, 2 litre class. While a direct competitor, the new Porsche 906, was already homologated by May 1966 during the ongoing 1966 World Sportscar Championship, only 18 Dino 206S were made until 1967, thus the S for Sportscar never was earned.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Paris_-_Retromobile_2014_-_Dino_206_SP_-_1966_-_004.jpg/3840px-Paris_-_Retromobile_2014_-_Dino_206_SP_-_1966_-_004.jpg",
+    "year": 1967
+  },
+  {
+    "model": "Ferrari 400",
+    "summary": "The Ferrari 365 GT4 2+2, Ferrari 400 and Ferrari 412 are a series of four-seater grand touring cars made by Italian manufacturer Ferrari between 1972 and 1989. The three cars are closely related, with the name changes reflecting mainly engine changes and styling revisions. It has a front-mounted V12 engine which drives the rear wheels.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ferrari_365_GT4_2%2B2_%282565525915%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1989
+  },
+  {
+    "model": "Ferrari 360",
+    "summary": "The Ferrari 360 is a two-seater sports car which was manufactured by Ferrari from 1999 until 2004. It has a rear mid-engine, rear-wheel-drive layout with coupé and roadster body styles. The 360 has a 3,586-cubic-centimetre (218.8 cu in) V8 engine which is mounted longitudinally. It succeeded the Ferrari F355 and was replaced by the Ferrari F430 in 2004.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ferrari_360_Modena_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2826%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2004
+  },
+  {
+    "model": "Ferrari 275",
+    "summary": "The Ferrari 275 is a series of front-engined V12-powered grand touring automobiles with two-seater coupé and spider bodies produced by Ferrari between 1964 and 1968. The first 275 series cars were powered by a 3.3 L (3286 cc) overhead camshaft Colombo 60° V12 engine producing 260–320 hp (190–240 kW). An updated 275 GTB/4 was introduced in 1966, with a revised four overhead camshaft engine producing 300 hp (220 kW). The 275 series were the first road-going Ferraris equipped with a transaxle and independent rear suspension.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1966_Ferrari_275_GTB_sn_08549%2C_front_left_%28Greenwich_2019%29.jpg/3840px-1966_Ferrari_275_GTB_sn_08549%2C_front_left_%28Greenwich_2019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1968
+  },
+  {
+    "model": "Ferrari 456",
+    "summary": "The Ferrari 456 and 456M are front-engine grand tourers which were produced by Italian automobile manufacturer Ferrari from 1992 to 2003. The 456 succeeded the front-engine 412 as the company's V12-powered four-seater. The updated 456M, which was the last Ferrari model to use pop-up headlamps, was replaced in 2004 by the 612 Scaglietti.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Paris_-_Bonhams_2014_-_Ferrari_456GT_modoficata_coup%C3%A9_-_2003_-_001.jpg/3840px-Paris_-_Bonhams_2014_-_Ferrari_456GT_modoficata_coup%C3%A9_-_2003_-_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2004
+  },
+  {
+    "model": "Ferrari Daytona SP3",
+    "summary": "The Ferrari Daytona SP3 is a limited production mid-engine sports car produced by the Italian automobile manufacturer Ferrari, unveiled on 20 November 2021 for the 2023 model year. The Daytona SP3 is the latest in the \"Icona\" series of high-performance cars being produced by Ferrari after the Ferrari Monza SP series. 599 examples were to be built from 2022 and sold for $2.25 million each. The Daytona SP3 is powered by a naturally aspirated 6.5-liter V12 that is shared with the 812 Superfast. The SP3 marks the first return of Ferrari to naturally-aspirated V12, mid-mounted engines for limited edition cars without hybrid electric systems since the Ferrari Enzo, introduced in 2002.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg/3840px-Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2023
+  },
+  {
+    "model": "Ferrari 250",
+    "summary": "The Ferrari 250 is a series of sports cars and grand tourers built by Ferrari from 1952 to 1964. The company's most successful early line, the 250 series includes many variants designed for road use or sports car racing. 250 series cars are characterised by their use of a 3.0 L (2,953 cc) Colombo V12 engine designed by Gioacchino Colombo. The 250 series designation refers to this engine's cylinder displacement of approximately 250 cc. They were replaced by the 275 and 330 series cars.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/1962_Ferrari_250_GTE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1964
+  },
+  {
+    "model": "Ferrari 849 Testarossa",
+    "summary": "The Ferrari 849 Testarossa is a sports car built by Italian manufacturer Ferrari. Containing a plug-in hybrid V8 powertrain, it is a successor to the Ferrari SF90 Stradale, and it takes its name from the 1950s and 1960s Ferrari racecars, such as the 250 Testarossa. According to Ferrari, the 8 of the \"849\" part of its name comes from its eight cylinders, and the 49 comes from the displacement of each cylinder in cubic centimeters.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2026_Ferrari_849_Testarossa_Assetto_Fiorano_in_Blu_Corsa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": null
+  },
+  {
+    "model": "Ferrari 195 S",
+    "summary": "The Ferrari 195 S was a sports racing car produced by Ferrari in 1950, as an improved version of the 166 MM. The 195 S won Mille Miglia, Coppa della Toscana and Giro delle Calabria.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ferrari_Coupe_-_Flickr_-_wbaiv.jpg/3840px-Ferrari_Coupe_-_Flickr_-_wbaiv.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1950
+  },
+  {
+    "model": "Ferrari F8",
+    "summary": "The Ferrari F8 is a mid-engine sports car produced by the Italian automobile manufacturer Ferrari. The car is the successor to the Ferrari 488 and pays homage to the last 45 years of Ferrari’s mid-engine V8s. It was unveiled at the 2019 Geneva Motor Show.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2020_Ferrari_F8_Tributo_3.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2019
+  },
+  {
+    "model": "Ferrari 250 Monza",
+    "summary": "The Ferrari 250 Monza was a sports racing car produced by Ferrari in 1954. It was a combination of a stretched chassis and body from the line of inline-four-engined racers with a ubiquitous 3.0-litre Colombo V12 engine.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/1955TriesteOpicina-1954Ferrari250Monza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1954
+  },
+  {
+    "model": "Ferrari 250 GT Cabriolet Pinin Farina",
+    "summary": "The Ferrari 250 GT Cabriolet Pinin Farina is a prestige sports car developed by the Italian carmaker Ferrari. A \"cabriolet\" version of the 250 GT Coupé, it was designed and bodied by Carrozzeria Pinin Farina of Turin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/110_ans_de_l%27automobile_au_Grand_Palais_-_Ferrari_250GT_Series_II_Cabriolet_-_1960_-_004.jpg/3840px-110_ans_de_l%27automobile_au_Grand_Palais_-_Ferrari_250GT_Series_II_Cabriolet_-_1960_-_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": null
+  },
+  {
+    "model": "Ferrari Purosangue",
+    "summary": "The Ferrari Purosangue is a high-performance mid-size luxury crossover SUV by Italian automobile manufacturer Ferrari that was introduced on 13 September 2022. It is Ferrari's first production 4-door vehicle and sport utility vehicle, and competes with other high-performance SUVs, such as the Lamborghini Urus and Aston Martin DBX.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ferrari_Purosangue_DSC_7008.jpg/3840px-Ferrari_Purosangue_DSC_7008.jpg",
+    "year": 2022
+  },
+  {
+    "model": "Ferrari 250 GTO",
+    "summary": "The Ferrari 250 GTO is a V12 front engine grand tourer produced by Ferrari from 1962 to 1964 for homologation into the FIA's Group 3 Grand Touring Car category that required at least 100 made within 12 months, including 250 GT SWB that had been homologated in June 1960.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1962_Ferrari_250_GTO_SP25.jpg/3840px-1962_Ferrari_250_GTO_SP25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1964
+  },
+  {
+    "model": "Ferrari Enzo",
+    "summary": "The Ferrari Enzo, officially marketed as Enzo Ferrari, is a mid-engine sports car manufactured by Italian automobile manufacturer Ferrari and named after the company's founder, Enzo Ferrari. It was developed in 2002 using Formula One technology, such as a carbon-fibre body, Formula One-style automated-shift manual transmission, and carbon fibre-reinforced silicon carbide (C/SiC) ceramic composite disc brakes, as well as technologies not allowed in Formula One, such as active aerodynamics. The Enzo's F140 B V12 engine was also the first of a new generation for Ferrari. The Enzo generates substantial amounts of downforce through its front underbody flaps, small adjustable rear spoiler and rear diffuser, which work in conjunction to produce 343 kilograms (756 lb) of downforce at 200 km/h (124 mph) and 775 kilograms (1,709 lb) of downforce at 300 km/h (186 mph), before decreasing to 585 kilograms (1,290 lb) at top speed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/3840px-Orange_Enzo_Ferrari_%287191948164%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2002
+  },
+  {
+    "model": "Ferrari 12Cilindri",
+    "summary": "The Ferrari 12Cilindri is a two-seater front-engine, rear-wheel-drive grand tourer produced by the Italian sports car manufacturer Ferrari. It was unveiled at Miami Beach on May 3, 2024, to coincide with the 70th anniversary of Ferrari in the American market.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg/3840px-2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg",
+    "year": 2024
+  },
+  {
+    "model": "Ferrari Mythos",
+    "summary": "The Ferrari Mythos is a mid-engine, rear wheel drive concept car based on the mechanical underpinnings of the Ferrari Testarossa. Designed by Italian design house Pininfarina and developed by automobile manufacturer Ferrari, its world premiere was at the 1989 Tokyo Motor Show.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ferrari_Mythos_concept_car_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1989
+  },
+  {
+    "model": "Ferrari 365 GTS/4",
+    "summary": "The Ferrari Daytona is a two-seat grand tourer produced by Ferrari from 1968 to 1973. It was introduced at the Paris Auto Salon in 1968 to replace the 275 GTB/4, and featured the 275's Colombo V12 with a larger cylinder bore for 4,390 cc. It was offered in berlinetta and spyder forms. The car came in two variants: the 365 GTB/4 coupe, and the 365 GTS/4 convertible.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1973_Ferrari_Daytona_365_GTB4_Blue_LC22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1973
+  },
+  {
+    "model": "Ferrari 340 America",
+    "summary": "Ferrari America is a series of flagship grand touring Ferrari models primarily built for the North American market in the 1950s and 1960s. The America models were equipped with large V12 engines and often had custom bodywork done by famous coachbuilders in Italy. All America models used a live axle in the rear, were front-engined, and had worm and sector steering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/1964_Ferrari_500_Superfast_in_Dark_Red%2C_front_left.jpg/3840px-1964_Ferrari_500_Superfast_in_Dark_Red%2C_front_left.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari 250 Europa",
+    "summary": "The Ferrari 250 Europa is a grand tourer built by Ferrari to replace the Ferrari 212 Inter. While previous Ferrari models had models with multiple body styles depending on the coachbuilder, the 250 Europa had been preceded by an agreement between Ferrari and Pinin Farina to make Pinin Farina the official builder of Ferrari car bodies going forward. Out of the 22 cars produced, 18 were made with Pinin Farina bodies and 4 were made with Vignale bodies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ferrari_250_Europa.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari SP12 EC",
+    "summary": "The Ferrari 458 Italia is an Italian mid-engine sports car produced by Ferrari. The 458 is the successor of the F430, and was first officially unveiled at the 2009 Frankfurt Motor Show. It was succeeded by the 488 GTB in 2015.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg",
+    "year": 2015
+  },
+  {
+    "model": "Ferrari Portofino",
+    "summary": "The Ferrari Portofino is a grand touring sports car produced by the Italian automotive manufacturer Ferrari. It is a two-door 2+2 hard top convertible, with a 3.9 L twin-turbo V8 gasoline engine and a 0–60 mph (0–97 km/h) time of 3.5 seconds. The car is named after the village of Portofino on the Italian Riviera and succeeds the company's previous V8 grand tourer, the California T. The car was unveiled at the 2017 Frankfurt Motor Show.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ferrari_Portofino_M_IMG_4351.jpg/3840px-Ferrari_Portofino_M_IMG_4351.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2017
+  },
+  {
+    "model": "Ferrari 250 Testa Rossa",
+    "summary": "The Ferrari 250 Testa Rossa, or 250 TR, is a sports racing car built by Ferrari from 1957 to 1961. It was introduced at the end of the 1957 racing season in response to rule changes that enforced a maximum engine displacement of 3 litres for the 24 Hours of Le Mans and World Sports Car Championship races. The 250 TR was closely related to earlier Ferrari sports cars, sharing many key components with other 250 models and the 500 TR.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/1961_Ferrari_250_TR_61_Spyder_Fantuzzi_34_left_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1961
+  },
+  {
+    "model": "Ferrari 488",
+    "summary": "The Ferrari 488 is a mid-engine sports car produced by the Italian automobile manufacturer Ferrari. The car replaced the 458, being the first mid-engine Ferrari to use a turbocharged V8 since the F40. It was succeeded by the Ferrari F8.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg/3840px-2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": null
+  },
+  {
+    "model": "Ferrari P4/5 By Pininfarina",
+    "summary": "The Ferrari P4/5 is a one-off sports car made by Italian sports car manufacturer Ferrari but redesigned by Pininfarina for film director James Glickenhaus, son of stock exchange magnate Seth Glickenhaus.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ferrari_P45_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": null
+  },
+  {
+    "model": "Ferrari Testarossa",
+    "summary": "The Ferrari Testarossa is a 12-cylinder mid-engine sports car manufactured by Ferrari, which went into production in 1984 as the successor to the Ferrari Berlinetta Boxer. The Pininfarina-designed car was originally produced from 1984 until 1991, with two model revisions following the end of Testarossa production called the 512 TR and F512 M, which were produced from 1992 until 1996. Including revised variations, almost 10,000 cars in total were produced, making it at the time one of the most mass-produced Ferrari models.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ferrari_Testarossa_IMG_3043.jpg/3840px-Ferrari_Testarossa_IMG_3043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1996
+  },
+  {
+    "model": "Ferrari 599",
+    "summary": "The Ferrari 599 GTB Fiorano is a grand tourer produced by the Italian automobile manufacturer Ferrari. It served as the brand's front-engined, two-seat model, replacing the 575M Maranello in 2006 as a 2007 model, and was later replaced for the 2013 model year by the F12berlinetta.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2013
+  },
+  {
+    "model": "Ferrari 125 C",
+    "summary": "The Ferrari 125 C is an open-wheel single-seater racing car, designed, developed, and produced by Ferrari in 1947 as a single example. It competed primarily in Formula Libre contests and events.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/1947-06-15_Vigevano_Ferrari_125_sn02C_Cortese.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari 550",
+    "summary": "The Ferrari 550 Maranello is a front-engine V12 2-seat grand tourer built by Ferrari from 1996 to 2002. The 550 Maranello marked Ferrari's return to a front-engine, rear-wheel drive layout for its 2-seater 12-cylinder model, 23 years after the 365 GTB/4 Daytona had been replaced by the mid-engined Berlinetta Boxer.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg/3840px-Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2002
+  },
+  {
+    "model": "Ferrari 365",
+    "summary": "The Ferrari 365 is a large front-engine, rear-wheel-drive 2- and 2+2-seater grand tourer produced by Ferrari. Introduced at the 1966 Geneva Motor Show, it replaced the 330 and 500 Superfast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ferrari_365_GT_2_%2B_2_%282597740059%29.jpg",
+    "year": 1966
+  },
+  {
+    "model": "Ferrari 812 Superfast",
+    "summary": "The Ferrari 812 Superfast is a front mid-engine, rear-wheel-drive grand tourer produced by the Italian sports car manufacturer Ferrari that made its debut at the 2017 Geneva Motor Show. The 812 Superfast is the successor to the F12berlinetta.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ferrari_812_Superfast_S-A_6.5.jpg/3840px-2019_Ferrari_812_Superfast_S-A_6.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2017
+  },
+  {
+    "model": "Ferrari 225 S",
+    "summary": "The Ferrari 225 S was a sports car produced by Ferrari in 1952. It was an evolution over the preceding Ferrari 212 Export with important engine upgrades that greatly improved power output. The model was extensively used in competition, winning many international races. The most important include 1952 Monaco Grand Prix for sports cars, Portuguese Grand Prix, Coppa d'Oro di Sicilia, Coppa della Toscana, Coppa d'Oro delle Dolomiti and many others. It was the final Colombo V12 engine iteration before the 250-family stretched it to 3.0-litres capacity.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ferrari_225_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1952
+  },
+  {
+    "model": "Ferrari 575M Maranello",
+    "summary": "The Ferrari 575M Maranello is a two-seat, two-door, grand tourer manufactured by Italian automobile manufacturer Ferrari. Launched in 2002, it is essentially an updated 550 Maranello featuring minor styling changes from Pininfarina. The 575M was replaced by the 599 GTB in the first half of 2006.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ferrari575M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2006
+  },
+  {
+    "model": "Ferrari Mondial",
+    "summary": "The Ferrari Mondial is a mid-engined, V8, grand tourer manufactured and marketed by Ferrari between 1980 and 1993 – with styling by Pininfarina and bodywork by Carrozzeria Scaglietti.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PUW456Y_Ferrari_Mondial.jpg/3840px-PUW456Y_Ferrari_Mondial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1993
+  },
+  {
+    "model": "Ferrari 599 GTB Fiorano",
+    "summary": "The Ferrari 599 GTB Fiorano is a grand tourer produced by the Italian automobile manufacturer Ferrari. It served as the brand's front-engined, two-seat model, replacing the 575M Maranello in 2006 as a 2007 model, and was later replaced for the 2013 model year by the F12berlinetta.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg",
+    "year": 2013
+  },
+  {
+    "model": "Ferrari 599XX",
+    "summary": "The Ferrari 599 GTB Fiorano is a grand tourer produced by the Italian automobile manufacturer Ferrari. It served as the brand's front-engined, two-seat model, replacing the 575M Maranello in 2006 as a 2007 model, and was later replaced for the 2013 model year by the F12berlinetta.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg",
+    "year": 2013
+  },
+  {
+    "model": "Ferrari 250 S",
+    "summary": "The Ferrari 250 S was a sports racing car produced by Ferrari in 1952. It was the first in the long lineage of Ferrari 250 road and race cars powered by a ubiquitous 3.0-litre Colombo V12 engine. In 1952 the 250 S won the Mille Miglia and 12 Hours of Pescara. At the Le Mans, the same year, it clocked the fastest race lap time. Only a single example was produced.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/R%C3%A9tromobile_2016_-_Ferrari_250_Sport_-_1952_-_002.jpg/3840px-R%C3%A9tromobile_2016_-_Ferrari_250_Sport_-_1952_-_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1952
+  },
+  {
+    "model": "Ferrari 375 Plus",
+    "summary": "The Ferrari 375 Plus is a sports racing car produced by Ferrari in 1954. The model competed internationally, winning many major races, including 24 Hours of Le Mans, Carrera Panamericana, 1000km of Buenos Aires, Agadir GP and Silverstone.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/1954_Ferrari_375_Plus_34.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1954
+  },
+  {
+    "model": "Ferrari Pinin",
+    "summary": "The Ferrari Pinin was a one-off concept car created by Italian-design studio Pininfarina, to celebrate the design studio's 50th anniversary. Discussed by Enzo Ferrari as being turned into a production model, the proposal was dropped and the car remains a singular concept model, the first four-door Ferrari ever built.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/1980_Ferrari_Pinin.jpg",
+    "year": null
+  },
+  {
+    "model": "Ferrari F12tdf",
+    "summary": "The Ferrari F12berlinetta is a front mid-engine, rear-wheel-drive grand tourer produced by Italian automobile manufacturer Ferrari. The F12berlinetta debuted at the 2012 Geneva Motor Show, and replaced the 599 grand tourer. The naturally aspirated 6.3 litre Ferrari V12 engine used in the F12berlinetta won the 2013 International Engine of the Year Award in the Best Performance category and Best Engine above 4.0 litres. The F12berlinetta was named \"The Supercar of the Year 2012\" by car magazine Top Gear. The F12berlinetta was replaced by the 812 Superfast in early 2017.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ferrari_F12berlinetta_IMG_2941.jpg/3840px-Ferrari_F12berlinetta_IMG_2941.jpg",
+    "year": 2017
+  },
+  {
+    "model": "Ferrari 365 GTC/4",
+    "summary": "The Ferrari 365 GTC/4 is a 2+2 grand tourer produced by Ferrari from 1971 to 1972. It was based on the chassis of the Ferrari 365 GTB/4 \"Daytona\", and in the very short two-year production run 505 examples of the GTC/4 were produced. Its chassis and drivetrain, however, were carried over mostly unaltered on its successor, the 1972 365 GT4 2+2.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1972_Ferrari_365_GTC-4_in_Blu_Sera%2C_front_left.jpg/3840px-1972_Ferrari_365_GTC-4_in_Blu_Sera%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1972
+  },
+  {
+    "model": "Ferrari 408 4RM",
+    "summary": "The Ferrari 408 4RM is a prototype car built by Ferrari in 1987. It was the first Ferrari to feature 4-wheel drive. The model name was linked to the characteristics of the engine, with the 40 in 408 standing for its 4.0 L displacement, and the 8 representing the number of cylinders. The abbreviation \"4RM\" stood for “4 Ruote Motrici”, meaning four-wheel drive.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/1988_Ferrari_408_4RM_78610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1987
+  },
+  {
+    "model": "Ferrari 250 GT Lusso",
+    "summary": "The Ferrari 250 GT Berlinetta Lusso is a GT car which was manufactured by Italian automaker Ferrari from 1962 to 1964. Sometimes known as the GTL, GT/L or just Lusso, it is larger and more luxurious than the 250 GT Berlinetta. The 250 GT Lusso, which was not intended to compete in sports car racing, is considered to be one of the most elegant Ferraris.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ferrari_250_Lusso_in_Grey%2C_front_right.jpg/3840px-Ferrari_250_Lusso_in_Grey%2C_front_right.jpg",
+    "year": 1964
+  },
+  {
+    "model": "Ferrari GT4",
+    "summary": "The Dino 308 GT4 and 208 GT4 are mid-engined V8 2+2 cars built by Ferrari. The Dino 308 GT4 was introduced in 1973 and supplemented by the 208 GT4 in 1975. The cars were sold with Dino badging until May 1976, when they received Ferrari badging. It was the first production Ferrari to feature the rear mid-engined V8 layout that would become the bulk of the company's business in the succeeding decades. The GT4 was replaced by the Mondial 8 in 1980 after a production run of 2,826 308s and 840 208s.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/1975_Dino_308_GT4_in_Marrone_Metallizzato%2C_Berlin.jpg/3840px-1975_Dino_308_GT4_in_Marrone_Metallizzato%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1980
+  },
+  {
+    "model": "Ferrari 512 Berlinetta Boxer",
+    "summary": "The Ferrari Berlinetta Boxer (BB) is a series of sports cars produced by Ferrari in Italy between 1973 and 1984. The BB was designed by Leonardo Fioravanti at Pininfarina. The first BB model, the 365 GT4 BB, replaced the front engined Daytona and was the first in a series of road-going Ferraris equipped with a mid-mounted flat-twelve engine. The 365 GT4 BB was succeeded in 1976 by the BB 512, equipped with a larger displacement engine, then by the fuel-injected BB 512i in 1981. The series was discontinued in 1984 when the BB 512i was replaced by the Testarossa, which used a revised version of the flat-twelve engine.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg/3840px-1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg",
+    "year": 1984
+  },
+  {
+    "model": "Ferrari FXX",
+    "summary": "The Ferrari Enzo, officially marketed as Enzo Ferrari, is a mid-engine sports car manufactured by Italian automobile manufacturer Ferrari and named after the company's founder, Enzo Ferrari. It was developed in 2002 using Formula One technology, such as a carbon-fibre body, Formula One-style automated-shift manual transmission, and carbon fibre-reinforced silicon carbide (C/SiC) ceramic composite disc brakes, as well as technologies not allowed in Formula One, such as active aerodynamics. The Enzo's F140 B V12 engine was also the first of a new generation for Ferrari. The Enzo generates substantial amounts of downforce through its front underbody flaps, small adjustable rear spoiler and rear diffuser, which work in conjunction to produce 343 kilograms (756 lb) of downforce at 200 km/h (124 mph) and 775 kilograms (1,709 lb) of downforce at 300 km/h (186 mph), before decreasing to 585 kilograms (1,290 lb) at top speed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/3840px-Orange_Enzo_Ferrari_%287191948164%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2002
+  },
+  {
+    "model": "Ferrari 550 Maranello",
+    "summary": "The Ferrari 550 Maranello is a front-engine V12 2-seat grand tourer built by Ferrari from 1996 to 2002. The 550 Maranello marked Ferrari's return to a front-engine, rear-wheel drive layout for its 2-seater 12-cylinder model, 23 years after the 365 GTB/4 Daytona had been replaced by the mid-engined Berlinetta Boxer.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg/3840px-Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg",
+    "year": 2002
+  },
+  {
+    "model": "Ferrari 612 Scaglietti",
+    "summary": "The Ferrari 612 Scaglietti is an executive 2+2 coupé grand tourer made by the Italian automobile manufacturer Ferrari between 2004 and 2011. It was designed to replace the smaller 456; its larger size makes it a true 4-seater with adequate space in the rear seats for adults.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ferrari_612_Scaglietti_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2011
+  },
+  {
+    "model": "Ferrari Luce",
+    "summary": "The Ferrari Luce is a battery electric executive car produced by Italian automobile manufacturer Ferrari. It is Ferrari's first production electric vehicle and the brand's first five-seat model.",
+    "image_url": null,
+    "year": 2026
+  },
+  {
+    "model": "Ferrari 365 GT4 2+2",
+    "summary": "The Ferrari 365 GT4 2+2, Ferrari 400 and Ferrari 412 are a series of four-seater grand touring cars made by Italian manufacturer Ferrari between 1972 and 1989. The three cars are closely related, with the name changes reflecting mainly engine changes and styling revisions. It has a front-mounted V12 engine which drives the rear wheels.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ferrari_365_GT4_2%2B2_%282565525915%29.jpg",
+    "year": 1989
+  },
+  {
+    "model": "Ferrari California",
+    "summary": "The Ferrari California is a grand touring, high performance sports car created by the Italian automobile manufacturer Ferrari. It is a two-door 2+2 hard top convertible. When originally unveiled in 2008, the California was powered by a front-mid mounted, rear wheel drive, naturally aspirated 4.3-litre V8. In 2012, a lighter, slightly more powerful variant, the California 30, was introduced. In 2014, Ferrari announced the second generation of the model, named California T powered by a new twin-turbo 3.9-litre V8.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg/3840px-2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2014
+  },
+  {
+    "model": "Ferrari 250 MM",
+    "summary": "The Ferrari 250 MM was a sports racing car produced by Ferrari from 1952 to 1954. After the initial racing successes of the 3.0-litre Colombo V12 engine, introduced in the 250 S one-off, Ferrari produced a serial racing model. It is best recognisable for the distinctive closed berlinetta bodywork by Pinin Farina. The \"MM\" in its name stood for the Mille Miglia race.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ferrari_250_MM_Berlinetta_-_MM_2014_-_%2814241703734%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 1954
+  },
+  {
+    "model": "Ferrari 250 GT Coupé",
+    "summary": "The Ferrari 250 GT Coupé represented a series of road-going, grand touring cars produced by Ferrari between 1954 and 1960. Presented at the 1954 Paris Motor Show, the 250 Europa GT was the first in the GT-lineage. The design by Pinin Farina was seen as a more civilised version of their sporty Berlinetta 250 MM. Series built cars were an answer to the wealthy clientele demands of a sporty and luxurious Ferrari Gran Turismo, that is also easier to use daily.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1959_Ferrari_250_GT_Pinin_Farina_Coup%C3%A9_%281433GT%29%2C_front_left.jpg/3840px-1959_Ferrari_250_GT_Pinin_Farina_Coup%C3%A9_%281433GT%29%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 1960
+  },
+  {
+    "model": "Ferrari GTC4Lusso",
+    "summary": "The Ferrari GTC4Lusso is a four-seat grand touring car produced by Italian automobile manufacturer Ferrari from 2016 to 2020. The GTC4Lusso is a successor to the Ferrari FF.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/3840px-Ferrari_GTC4Lusso_IMG_4353.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2020
+  },
+  {
+    "model": "Ferrari 340 Mexico",
+    "summary": "The Ferrari 340 Mexico was a Ferrari sports racing car which was intended for the 1952 Carrera Panamericana. It used 4.1 L Lampredi V12 engine producing around 280 PS (206 kW) at 6600 rpm, for a maximum speed of 280 km/h. Just 4 were made in 1952, 3 Vignale Berlinettas and 1 Vignale Spyder; all designed by Giovanni Michelotti. The 340 Mexico used a 2,600 mm (102.4 in) wheelbase.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2021_Pebble_Tour_Ferrari_340_0226AT.jpg/3840px-2021_Pebble_Tour_Ferrari_340_0226AT.jpg",
+    "year": 1952
+  },
+  {
+    "model": "Ferrari 365 P Berlinetta Speciale",
+    "summary": "The Ferrari 365 P Berlinetta Speciale was a concept sports car designed and produced by Pininfarina and Ferrari in 1966. It featured a mid-engined layout of a donor racing car chassis and three-seat arrangement with a central driving position, as later popularised with the McLaren F1. It was the first purpose-built, mid-engine, road-going Ferrari-branded car. Other similar Ferraris at that time were road-usable race cars like the 1965 250 LM 'Speciale'.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1966_Ferrari_365_P_Berlinetta_Speciale_HCC22.jpg/3840px-1966_Ferrari_365_P_Berlinetta_Speciale_HCC22.jpg",
+    "year": 1966
+  }
+]
